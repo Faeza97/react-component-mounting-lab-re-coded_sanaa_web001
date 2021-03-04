@@ -44,4 +44,3 @@ class Timer extends Component {
 }
 
 export default Timer;
-© 2021 GitHub, Inc.
